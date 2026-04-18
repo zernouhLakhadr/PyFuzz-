@@ -69,7 +69,7 @@ This tool is built for **educational purposes only**. Only use it against system
 ## 👤 Author
 
 **Your Name**
-- LinkedIn: https://www.linkedin.com/in/zernouh-aymen-lakhdar-05423a404/?skipRedirect=true
+- LinkedIn: www.linkedin.com/in/aymen-zernouh-1b690925b
 - GitHub: https://github.com/zernouhLakhadr
 
 ---
